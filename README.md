@@ -1,6 +1,6 @@
 # Healthcare Chatbot
 
-A healthcare chatbot designed to gather symptoms from users and provide potential diagnoses. If the user is not satisfied with the initial diagnosis, the bot will offer alternative diagnoses. This project leverages datasets and models from Hugging Face for accurate and reliable predictions.
+A healthcare chatbot designed to gather symptoms from users and provide potential diagnoses. If the user is not satisfied with the initial diagnosis, the bot will offer alternative diagnoses. This project leverages datasets and models from Hugging Face for accurate and reliable predictions. 
 
 ## Table of Contents
 
@@ -80,6 +80,3 @@ The chatbot uses these resources to analyze the symptoms input by the user and p
 
 If you wish to contribute to the project, please fork the repository and create a pull request.
 
-## Contact
-
-For further information or questions, feel free to contact the project team at arpitmarkana4887@gmail.com or mysticalmanav@gmail.com
